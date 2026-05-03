@@ -1,7 +1,7 @@
 # 👨‍💻 Arthur Felipe (Take) | Systems Information Student
 
 ### 💫 Sobre Mim
-Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco atual é a intersecção entre lógica de baixo nível, inteligência artificial e a criação de mundos digitais.
+Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco atual reside na lógica de programação, arquitetura de sistemas e na criação de mundos digitais.
 
 ---
 
@@ -15,38 +15,36 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 ---
 
 ### 💼 Professional Overview & Recruitment
-*   **Availability**: Open for internships, junior positions, and freelance projects in Web Development or Software Engineering.
 *   **Global Mobility**: Highly interested in international opportunities, specifically within the Canadian tech market.
-*   **English Proficiency**: Capable of collaborating in English-speaking environments and remote global teams.
-*   **Core Competencies**: Strong foundation in Python, Java, and C, with a focus on clean code and system architecture.
+*   **Collaboration**: Open for internships, junior positions, and freelance projects in Web Development or Software Engineering.
+*   **Communication**: Prepared to collaborate in remote global teams and English-speaking environments.
 
 ---
 
-### 🛡️ Tecnologias & Stack (Brasões de Maestria)
+### 🛡️ Tecnologias em Desenvolvimento (Brasões de Estudo)
 <div align="center">
 
 | <img src="https://img.shields.io/badge/UNEB-ED1C24?style=for-the-badge&logo=university&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/FEDORA-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" height="40"> |
 | :---: | :---: | :---: | :---: | :---: |
-| **Universidade Baiana** | **Automação & IA** | **Arquitetura POO** | **Baixo Nível** | **System Core** |
+| **Universidade Baiana** | **Desenvolvimento** | **Arquitetura POO** | **Baixo Nível** | **System Base** |
 
 </div>
 
 ---
 
 ### 🚀 Perfil Profissional & Pesquisa
-
-*   🤖 **AI & Automation Specialist**: Desenvolvimento de scripts inteligentes para otimização de fluxos de trabalho.
-*   🌐 **Web Development**: Focado na construção de interfaces modernas e funcionais com foco em escalabilidade.
-*   🎮 **Game Creation**: Criação de experiências interativas unindo lógica de programação e design 2D/2.5D.
-*   ⚖️ **HCI & Ethics Research**: Estudo de **Dark Patterns** e o impacto da arquitetura de escolha na autonomia do usuário.
-*   🐧 **Linux Power User**: Domínio de sistemas Unix-like, utilizando Fedora e GNOME como ambiente principal.
+*   💻 **Software Development**: Atualmente fortalecendo as bases em Python, Java e C para construção de soluções robustas.
+*   🌐 **Web Development**: Focado na construção de interfaces modernas e funcionais.
+*   🎮 **Game Creation**: Design de RPGs estratégicos com foco em economia e mecânicas complexas.
+*   ⚖️ **HCI & Ethics Research**: Pesquisa acadêmica sobre **Dark Patterns** e o impacto do design na autonomia do usuário.
+*   🐧 **Linux Power User**: Utilizando Fedora e GNOME como base para um ambiente de desenvolvimento ágil.
 
 ---
 
 ### ⚙️ System Setup
-*   **OS**: Fedora Linux 43 (Workstation Edition)
-*   **Desktop Environment**: GNOME 49.4
-*   **Hardware**: AMD Ryzen 5 5625U | 16GB RAM
+*   **OS**: Fedora Linux (Workstation Edition)
+*   **Desktop Environment**: GNOME
+*   **Hardware**: AMD Ryzen 5 | 16GB RAM
 
 ---
 
