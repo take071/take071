@@ -1,4 +1,4 @@
-# Arthur Felipe (Take) | Systems Information Student
+# 👨‍💻 Arthur Felipe (Take) | Systems Information Student
 
 ### 💫 Sobre Mim
 Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco atual é a intersecção entre lógica de baixo nível, inteligência artificial e a criação de mundos digitais.
@@ -14,6 +14,13 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ---
 
+### 💼 Professional Overview & Recruitment
+*   **Availability**: Open for internships, junior positions, and freelance projects in Web Development or Software Engineering.
+*   **Global Mobility**: Highly interested in international opportunities, specifically within the Canadian tech market.
+*   **English Proficiency**: Capable of collaborating in English-speaking environments and remote global teams.
+*   **Core Competencies**: Strong foundation in Python, Java, and C, with a focus on clean code and system architecture.
+
+---
 
 ### 🛡️ Tecnologias & Stack (Brasões de Maestria)
 <div align="center">
@@ -28,11 +35,10 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **AI & Automation Specialist**: Desenvolvimento de scripts inteligentes para otimização de fluxos de trabalho e produtividade.
-*   🌐 **Web Development**: Focado na construção de interfaces modernas e funcionais, com interesse em arquiteturas escaláveis.
-*   🎮 **Game Creation**: Entusiasta da criação de mundos virtuais, unindo lógica de programação e design para experiências interativas.
-*   ⚖️ **HCI & Ethics Research**: Pesquisa acadêmica sobre **Dark Patterns** (Deceptive Design) e o impacto da arquitetura de escolha na autonomia do usuário.
-*   🌍 **Global Mindset**: Preparação técnica para o mercado internacional, com foco em colaboração remota e inovação.
+*   🤖 **AI & Automation Specialist**: Desenvolvimento de scripts inteligentes para otimização de fluxos de trabalho.
+*   🌐 **Web Development**: Focado na construção de interfaces modernas e funcionais com foco em escalabilidade.
+*   🎮 **Game Creation**: Criação de experiências interativas unindo lógica de programação e design 2D/2.5D.
+*   ⚖️ **HCI & Ethics Research**: Estudo de **Dark Patterns** e o impacto da arquitetura de escolha na autonomia do usuário.
 *   🐧 **Linux Power User**: Domínio de sistemas Unix-like, utilizando Fedora e GNOME como ambiente principal.
 
 ---
@@ -40,7 +46,7 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 ### ⚙️ System Setup
 *   **OS**: Fedora Linux 43 (Workstation Edition)
 *   **Desktop Environment**: GNOME 49.4
-*   **Terminal Stack**: Ptyxis / Bash / Git
+*   **Hardware**: AMD Ryzen 5 5625U | 16GB RAM
 
 ---
 
