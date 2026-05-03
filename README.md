@@ -25,13 +25,13 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ### 🧠 Especializações e Projetos Atuais
 
-*   🤖 **Inteligência Artificial:** Desenvolvimento de automações e scripts inteligentes utilizando Python.
-*   🎮 **Game Design:** Criação de sistemas para RPGs estratégicos com foco em economia e mecânicas de turnos (Estética GBA/NDS).
-*   ⚖️ **Ética em HCI:** Pesquisa sobre *Dark Patterns* e arquitetura de escolha em interfaces digitais.
+*   🤖 **AI Automation:** Desenvolvimento de scripts inteligentes e integração de APIs para otimização de fluxos de trabalho.
+*   🌐 **Web Engineering:** Estudo de arquiteturas modernas e desenvolvimento de ferramentas para síntese e organização de conteúdo web.
+*   💾 **Operating Systems:** Exploração profunda em gerenciamento de memória, escalonamento e arquitetura de sistemas Unix-like.
 *   🛠️ **System Setup:** 
-    *   **OS:** Fedora Linux 43 (Workstation Edition) | GNOME 49.4
-    *   **Hardware:** Ryzen 5 5625U | 16GB RAM | Xiaomi Note 10 5G
-    *   **Terminal:** Ptyxis / Bash
+    *   **OS:** Fedora Linux 44 (Workstation Edition)
+    *   **Desktop Environment:** GNOME 50
+    *   **Terminal Stack:** Ptyxis / Bash / Git
 
 ---
 
