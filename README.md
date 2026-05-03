@@ -45,6 +45,9 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
   <a href="mailto:arthurfelipessousa@gmail.com">
     <img src="https://img.shields.io/badge/Email-arthurfelipessousa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/tk.felipee._/">
+    <img src="https://img.shields.io/badge/Instagram-@tk.felipee._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
