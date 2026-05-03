@@ -6,9 +6,18 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 ---
 
 ### 🐉 Foco e Evolução
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHBnNjRtamFkdGVmdTJ3a3dvd2I3MWtrM3hqNWRiOGJndmZqcWpxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IOS8928GMv4xG/giphy.gif" width="600" alt="Goku Training">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHBnNjRtamFkdGVmdTJ3a3dvd2I3MWtrM3hqNWRiOGJndmZqcWpxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IOS8928GMv4xG/giphy.gif" width="500" alt="Gohan Training">
+      </td>
+      <td valign="middle">
+        <h3>"O verdadeiro poder não nasce do desejo, mas da necessidade de superar seus próprios limites a cada linha de código."</h3>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
