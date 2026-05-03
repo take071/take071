@@ -1,4 +1,4 @@
-# 👨‍💻 Arthur Felipe | Systems Information Student
+# Arthur Felipe (Take) | Systems Information Student
 
 ### 💫 Sobre Mim
 Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco atual é a intersecção entre lógica de baixo nível, inteligência artificial e a criação de mundos digitais.
