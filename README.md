@@ -14,13 +14,6 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180">
-</p>
-
----
 
 ### 🛡️ Tecnologias & Stack (Brasões de Maestria)
 <div align="center">
