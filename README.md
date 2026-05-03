@@ -38,9 +38,9 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 ### 🛡️ Tecnologias & Stack (Brasões de Maestria)
 <div align="center">
 
-| <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="40"> |
-| :---: | :---: | :---: |
-| **Automação** | **Arquitetura** | **Lógica** |
+| <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" height="40"> |
+| :---: | :---: | :---: | :---: |
+| **Automação** | **Arquitetura** | **Lógica** | **IA Aplicada** |
 
 </div>
 
