@@ -76,5 +76,5 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ---
 <p align="center">
-  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi (Vagabond)</i>
+  <i>Não existe nada fora de você que possa te fazer melhorar, ficar mais forte, mais rico, mais rápido ou mais esperto. Tudo está dentro. Tudo existe, não procure nada fora de você."-Miyamoto Musashi (Vagabond)</i>
 </p>
