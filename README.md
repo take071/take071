@@ -1,18 +1,10 @@
 #  Arthur Felipe (Take) | Systems Information Student
 
-### 💫 Sobre Mim
+### Sobre Mim
 Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco reside na construção de sistemas inteligentes, arquitetura web e na liderança de projetos assistidos por tecnologia.
 
 ---
 
-###  Foco e Evolução
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHBnNjRtamFkdGVmdTJ3a3dvd2I3MWtrM3hqNWRiOGJndmZqcWpxNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IOS8928GMv4xG/giphy.gif" width="750" alt="Gohan Training">
-  <br>
-  <ins><i>"O verdadeiro poder não nasce do desejo, mas da necessidade de superar seus próprios limites a cada linha de código."</i></ins>
-</p>
-
----
 
 ### 🎯 Foco Atual
 *   🌐 **Principal**: Desenvolvimento Web (Projeto ativo: **TakeStreet**).
@@ -63,8 +55,8 @@ Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ### 📫 Contato Direto
 <p align="center">
-  <a href="https://www.instagram.com/tk.felipee._/">
-    <img src="https://img.shields.io/badge/Instagram-@tk.felipee._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/tk.felipe._/">
+    <img src="https://img.shields.io/badge/Instagram-@tk.felipe._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arthur-felipe-48929a346">
     <img src="https://img.shields.io/badge/LinkedIn-Arthur_Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
