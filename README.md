@@ -1,7 +1,7 @@
 #  Arthur Felipe (Take) | Systems Information Student
 
 ### Sobre Mim
-Sou estudante do **3º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco reside na construção de sistemas inteligentes, arquitetura web e na liderança de projetos assistidos por tecnologia.
+Sou estudante do **4º semestre de Sistemas de Informação na UNEB**. Desenvolvo meu fluxo de trabalho sobre o **Fedora Linux**, explorando a eficiência do terminal e a automação de processos. Meu foco reside na construção de sistemas inteligentes, arquitetura web e na liderança de projetos assistidos por tecnologia.
 
 ---
 
