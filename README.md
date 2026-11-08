@@ -52,8 +52,6 @@ Tenho interesse em construção de sistemas inteligentes, arquitetura de softwar
 ### 🚀 Perfil Profissional & Pesquisa
 
 - 💻 **Software Development**: Construção de soluções com foco em organização, lógica e evolução contínua.
-- 🌐 **Web Development**: Principal área de atuação atual, com desenvolvimento ativo no projeto **TakeStreet**.
-- 🎮 **Game Creation**: Desenvolvimento de conceitos de RPG com foco em mecânicas estratégicas e sistemas econômicos.
 - ⚙️ **Systems Thinking & UX/UI**: Aplicação de conceitos de sistemas na construção de sites e SaaS, considerando arquitetura, fluxo do usuário e experiência de utilização.
 - ⚖️ **Pesquisa Acadêmica — Dark Patterns**: Estudos sobre padrões manipulativos de interface e seus impactos na tomada de decisão dos usuários.
 
