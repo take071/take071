@@ -13,14 +13,14 @@ Sou estudante do **4º semestre de Sistemas de Informação na UNEB**. Desenvolv
 
 ---
 
-### 🚧 Projeto Principal: TakeStreet
+### 🚧 Projeto Principal: FireStick
 <p align="center">
-  <a href="https://github.com/take071/takestreet">
+  <a href="https://github.com/take071/fogo-no-game-stick">
     <img src="https://img.shields.io/badge/Acessar_Repositório-TakeStreet-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
-*   🔥 **[TakeStreet](https://github.com/take071/takestreet)**: Aplicação Web em desenvolvimento com foco em **arquitetura modular e escalabilidade**.
+*   🔥 **[FogoStick[](https://github.com/take071/fogo-no-game-stick)**
 *   🏗️ **Estrutura**: Estruturada com **separação de responsabilidades** e evolução incremental via Git.
 *   🧠 **UX-Driven**: Orientada ao **fluxo do usuário**, integrando lógica e interface.
 *   🔬 **Laboratório**: Projeto utilizado como laboratório para aplicação prática de conceitos de sistemas.
