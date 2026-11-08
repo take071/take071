@@ -11,7 +11,7 @@ Tenho interesse em construção de sistemas inteligentes, arquitetura de softwar
 ### 🎯 Foco Atual
 
 - 🎮 **Principal**: Desenvolvimento e engenharia reversa de sistemas de jogos retrô (projeto ativo: **FogoStick**).
-- 🎮 **Secundário**: Criação de jogos, especialmente RPGs estratégicos e sistemas econômicos.
+- 🎮 **Secundário**: Estudo de Idiomas.
 - ⚙️ **Base Técnica**: Lógica de programação e desenvolvimento com **C**, **Java** e **Python**, além de JavaScript.
 - 🧠 **IA Aplicada**: Automação de processos, engenharia de prompts e direção de projetos assistidos por inteligência artificial.
 
