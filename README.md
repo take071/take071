@@ -10,21 +10,23 @@ Sou estudante do **4º semestre de Sistemas de Informação na UNEB**. Desenvolv
 *   🌐 **Principal**: Desenvolvimento Web (Projeto ativo: **TakeStreet**).
 *   🎮 **Secundário**: Criação de jogos (RPGs estratégicos e sistemas econômicos).
 *   ⚙️ **Base**: Sistemas e lógica de programação (**C**, **Java**), automação em **Python** com uso de IA via prompt e experiência em direção e liderança de projetos desenvolvidos com IA.
-
----
-
-### 🚧 Projeto Principal: FireStick
+### 🚧 Projeto Principal: FogoStick
 
 <p align="center">
   <a href="https://github.com/take071/fogo-no-game-stick">
-    <img src="https://img.shields.io/badge/Acessar_Repositório-FireStick-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Acessar_Repositório-FogoStick-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
-* 🔥 **[FogoStick](https://github.com/take071/fogo-no-game-stick)**
-*   🏗️ **Estrutura**: Estruturada com **separação de responsabilidades** e evolução incremental via Git.
-*   🧠 **UX-Driven**: Orientada ao **fluxo do usuário**, integrando lógica e interface.
-*   🔬 **Laboratório**: Projeto utilizado como laboratório para aplicação prática de conceitos de sistemas.
+🔥 **[FogoStick — Game Stick 4K Lite](https://github.com/take071/fogo-no-game-stick)**
+
+- 🎮 **Modificações e Emulação**: Personalização e otimização do Game Stick 4K Lite, explorando os emuladores RetroArch, PCSX-ReARMed e mGBA.
+- ⚙️ **Automação e Scripts**: Desenvolvimento de ferramentas em Shell Script e Python para conversão de jogos PS1 para PBP, gerenciamento de capas, saves e configurações.
+- 🧠 **Engenharia Reversa**: Investigação da estrutura do firmware, funcionamento do MiniGUI, consumo de RAM e comportamento dos emuladores.
+- 🚀 **Otimização de Desempenho**: Experimentos com aceleração de batalhas Pokémon em hacks de GBA e configurações gráficas do PS1.
+- 📚 **Documentação Técnica**: Registro bilíngue (EN/PT-BR) de procedimentos, experimentos, resultados medidos, hipóteses e problemas ainda em investigação.
+
+<sub>Projeto experimental em andamento, desenvolvido a partir de um Fedora Linux, com foco em sistemas embarcados, Linux, automação e exploração de hardware.</sub>
 
 ---
 
