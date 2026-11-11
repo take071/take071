@@ -59,8 +59,8 @@ Tenho interesse em construção de sistemas inteligentes, arquitetura de softwar
 
 ### 💼 Recruitment & Global Opportunities
 
-- 🇨🇦 **Target Market**: Interesse em oportunidades internacionais, especialmente no mercado canadense.
-- 🤝 **Collaboration**: Interesse em colaboração com equipes globais, projetos remotos e ambientes profissionais de língua inglesa.
+- 🇨🇦 **Target Market**: Interest in international opportunities, especially in the Canadian market. 
+- 🤝 **Collaboration**: Interest in collaborating with global teams, remote projects, and English-speaking professional environments. 
 
 ---
 
